@@ -15,7 +15,7 @@ import os
 DB_CONFIG = {
     'host': 'localhost',
     'port': 3306,
-    'user': 'root',
+    'user': 'root', # you have to give your user name here 
     'password': '', #you have to give your password here
     'database': 'STUDENT_MANAGEMENT'
 }
