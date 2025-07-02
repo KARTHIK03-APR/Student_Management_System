@@ -16,7 +16,7 @@ DB_CONFIG = {
     'host': 'localhost',
     'port': 3306,
     'user': 'root',
-    'password': '2586',
+    'password': '', #you have to give your password here
     'database': 'STUDENT_MANAGEMENT'
 }
 TABLE_NAME = 'students_details'
