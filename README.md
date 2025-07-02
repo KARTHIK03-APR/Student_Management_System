@@ -33,7 +33,7 @@ This is a **Tkinter-based desktop application** that allows users to manage stud
 
 # 🛠️ Setup Instructions
 
-1.mysql config
+## 1.🔧 MySQL Configuration
 CREATE DATABASE STUDENT_MANAGEMENT;
 
 USE STUDENT_MANAGEMENT;
@@ -46,10 +46,10 @@ CREATE TABLE students_details (
     join_date DATE
 );
 
-2.📦 Install Required Packages
+## 2.📦 Install Required Packages
 pip install mysql-connector-python pandas matplotlib seaborn reportlab
 
-3.▶️ Run the Application
+## 3.▶️ Run the Application
 python script.py
 
 # 📊 Sample Visualizations
